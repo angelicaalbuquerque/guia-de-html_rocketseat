@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <a href="#-Sobre-o-bootcamp">Sobre o bootcamp</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-desafios">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Notas">Notas de aula</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Entre-em-contato">Contato</a>
@@ -32,7 +32,7 @@ Lecionado por Mayk Brito, o curso faz parte da trilha "Guias Estelares" do proje
 ### Grade do curso
 
 <details>
-  <summary>Módulo 01 | Conceitos 🛠️</summary>
+  <summary>Módulo 01 | Conceitos ✔️</summary>
 
 - Instalando plugin de preview HTML
 - O que é HTML
@@ -49,7 +49,7 @@ Lecionado por Mayk Brito, o curso faz parte da trilha "Guias Estelares" do proje
 </details>
 
 <details>
-  <summary>Módulo 02 | Trabalhando com elementos 🚧</summary>
+  <summary>Módulo 02 | Trabalhando com elementos 🛠️ </summary>
 
 - Semântica
 - Títulos e Parágrafos
@@ -65,15 +65,14 @@ Lecionado por Mayk Brito, o curso faz parte da trilha "Guias Estelares" do proje
 <details>
   <summary>Módulo 03 | Links 🚧</summary>
 
-    - Conhecendo a tag âncora
-    - Utilizando a tag âncora
-    - Conteúdos dentro de elemento a
-    - Caminhos e URLS
-    - Como navegar pelos diretórios
-    - Caminhos absolutos vs relativos
-    - Exercício de apresentação
-    - Exercício de resolução
-
+- Conhecendo a tag âncora
+- Utilizando a tag âncora
+- Conteúdos dentro de elemento a
+- Caminhos e URLS
+- Como navegar pelos diretórios
+- Caminhos absolutos vs relativos
+- Exercício de apresentação
+- Exercício de resolução
 </details>
 
 <details>
