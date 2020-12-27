@@ -191,4 +191,28 @@ Já com a tag < pre >, podemos criar blocos de código, pois essa tag mantém os
 < div >: serve para agruparmos conteúdo. Trabalha com ideia de bloco.
 < span >: serve para agruparmos texto. Trabalha com ideia de linha.
 
-##
+## Âncora:
+
+É o elemento que liga conteúdo com outro conteúdo, a tag < a >, responsável por fazer a ligação de diversas páginas.
+
+#### Anatomia:
+
+**Atributos:**
+
+- globais (title, ids, class...)
+- href (referência para onde iremos ao clicar no link)
+  - url completa
+  - fragmento
+  - email
+  - telefone
+  - outros
+- download
+- target
+  - self (padrão, abre na mesma janela)
+  - \_blank (abre em nova janela)
+
+### Absoluto x relativo:
+
+Absoluto incluirá todo o protocolo e nome de domínimo e sempre apontará para o mesmo local, pois é absoluto.
+
+Caminho relativo é relativo à página aberta no momento e apontará para lugares diferentes.

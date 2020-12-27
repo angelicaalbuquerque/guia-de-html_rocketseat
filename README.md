@@ -49,7 +49,7 @@ Lecionado por Mayk Brito, o curso faz parte da trilha "Guias Estelares" do proje
 </details>
 
 <details>
-  <summary>Módulo 02 | Trabalhando com elementos 🛠️ </summary>
+  <summary>Módulo 02 | Trabalhando com elementos ✔️ </summary>
 
 - Semântica
 - Títulos e Parágrafos
@@ -63,7 +63,7 @@ Lecionado por Mayk Brito, o curso faz parte da trilha "Guias Estelares" do proje
 </details>
 
 <details>
-  <summary>Módulo 03 | Links 🚧</summary>
+  <summary>Módulo 03 | Links ✔️</summary>
 
 - Conhecendo a tag âncora
 - Utilizando a tag âncora
@@ -76,7 +76,7 @@ Lecionado por Mayk Brito, o curso faz parte da trilha "Guias Estelares" do proje
 </details>
 
 <details>
-  <summary>Módulo 04 | Tabelas 🚧</summary>
+  <summary>Módulo 04 | Tabelas 🚧🛠️</summary>
 
 - Tabelas
 - Tabela básica
@@ -102,7 +102,7 @@ Lecionado por Mayk Brito, o curso faz parte da trilha "Guias Estelares" do proje
 
 ## 📝 Notas de aula
 
-Anotações das aulas estarão disponíveis em breve.
+Anotações das aulas estão disponíveis <a href="https://github.com/angelicaalbuquerque/guia-de-html_rocketseat/blob/main/notes.md" target="blank">aqui</a>.
 
 ## 💻 Desafios
 
