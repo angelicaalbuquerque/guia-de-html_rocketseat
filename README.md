@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="#-Sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-desafios">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a>
   <a href="#-Notas">Notas de aula</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Entre-em-contato">Contato</a>
 </p>
@@ -76,7 +76,7 @@ Lecionado por Mayk Brito, o curso faz parte da trilha "Guias Estelares" do proje
 </details>
 
 <details>
-  <summary>Módulo 04 | Tabelas 🚧🛠️</summary>
+  <summary>Módulo 04 | Tabelas ✔️</summary>
 
 - Tabelas
 - Tabela básica
@@ -90,7 +90,7 @@ Lecionado por Mayk Brito, o curso faz parte da trilha "Guias Estelares" do proje
 </details>
 
 <details>
-  <summary>Módulo 05 | Persistindo os Dados da Aplicação 🚧</summary>
+  <summary>Módulo 05 | Persistindo os Dados da Aplicação ✔️</summary>
 
 - Head
 - Meta
@@ -104,10 +104,6 @@ Lecionado por Mayk Brito, o curso faz parte da trilha "Guias Estelares" do proje
 
 Anotações das aulas estão disponíveis <a href="https://github.com/angelicaalbuquerque/guia-de-html_rocketseat/blob/main/notes.md" target="blank">aqui</a>.
 
-## 💻 Desafios
-
-Os desafios dos módulos estarão disponíveis em breve.
-
 ## 📬 Entre em contato!
 
 <p align="left">
@@ -119,7 +115,7 @@ Os desafios dos módulos estarão disponíveis em breve.
 ---
 
 <p align="center">
-Feito com muito ☕ e 🖤 por Angélica Albuquerque
+Feito com ☕ e 🖤 por Angélica Albuquerque
 </p>
 
 <p align="center">
