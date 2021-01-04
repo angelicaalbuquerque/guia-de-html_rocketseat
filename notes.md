@@ -216,3 +216,38 @@ Já com a tag < pre >, podemos criar blocos de código, pois essa tag mantém os
 Absoluto incluirá todo o protocolo e nome de domínimo e sempre apontará para o mesmo local, pois é absoluto.
 
 Caminho relativo é relativo à página aberta no momento e apontará para lugares diferentes.
+
+## Tabelas:
+
+Fazem organização de dados. Com o elemento "table", consigo criar tabelas no HTML.
+
+Prós:
+
+- Visualização de dados via linhas e colunas;
+- Boa acessibilidade para leitura dos dados.
+
+Contras:
+
+- Pouco flexível;
+- Precisa de estilização para melhor visualização.
+
+Não usar para criar layouts!
+
+**Composição de uma table bem organizada:**
+
+tr: linha;
+th: cabeçalho/colunas;
+td: descrição/conteúdo de cada uma das colunas.
+
+A boa prática é deixar as tags "th" dentro de "thead" e as descrições dentro do corpo, da tag "tbody".
+
+Caso minha tabela possua um rodapé, posso colocá-lo dentro da tag "tfoot".
+
+A tag "caption" descreve o que a tabela está fazendo.
+
+A estratégia "rowspan" faz com que o conteúdo ocupe a quantidade de linhas indicada. Exeplo: "rowspan=2".
+Já ocm "colspan", ocupo a quantidade indicada de colunas.
+
+Para organizar o agrupamento das informações, depois do caption podemos usar colgroup, trazendo mais acessibilidade e melhor SEO, além de ser melhor para colocar estilos.
+
+Atributo "scope" ajuda a entender o escopo para acessibilidade e leitores de tela.
