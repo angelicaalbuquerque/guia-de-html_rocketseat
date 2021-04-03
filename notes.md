@@ -245,8 +245,8 @@ Caso minha tabela possua um rodapé, posso colocá-lo dentro da tag "tfoot".
 
 A tag "caption" descreve o que a tabela está fazendo.
 
-A estratégia "rowspan" faz com que o conteúdo ocupe a quantidade de linhas indicada. Exeplo: "rowspan=2".
-Já ocm "colspan", ocupo a quantidade indicada de colunas.
+A estratégia "rowspan" faz com que o conteúdo ocupe a quantidade de linhas indicada. Exemplo: "rowspan=2".
+Já com "colspan", ocupo a quantidade indicada de colunas.
 
 Para organizar o agrupamento das informações, depois do caption podemos usar colgroup, trazendo mais acessibilidade e melhor SEO, além de ser melhor para colocar estilos.
 
